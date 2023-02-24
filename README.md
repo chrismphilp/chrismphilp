@@ -40,7 +40,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2015/01/docker-whale-home-logo.png?itok=nf2cLFMc" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
@@ -67,6 +67,12 @@
         <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Prometheus
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://cdn.iconscout.com/icon/free/png-256/aws-3215369-2673787.png" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
     </td>
   </tr>
 </table>
