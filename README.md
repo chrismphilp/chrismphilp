@@ -2,6 +2,12 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
