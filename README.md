@@ -1,7 +1,10 @@
 <h1 align="left">:wave: Hey! I'm Chris P</h1>
 
 - :office: &nbsp;Currently working at **[starlingbank]([/starlingbank](https://www.starlingbank.com/))**
-- :seedling: &nbsp;Learning **Rust**
+- :seedling: &nbsp;Learning -> **Rust**
+- :pencil: &nbsp;Want to learn -> **Game Programming**
+- :books: &nbsp;[Currently reading](https://www.goodreads.com/review/list/80389844-chris-philp?shelf=currently-reading)
+- :guitar: &nbsp;[Currently playing](https://www.youtube.com/watch?v=c70Hf4KpToU)
 
 <h2 align="left" id="macropower-tech">Favorite Technologies</h2>
 
