@@ -1,6 +1,6 @@
 <h1 align="left">:wave: Hey! I'm Chris P</h1>
 
-- :office: &nbsp;Currently working at **[starlingbank]([/starlingbank](https://www.starlingbank.com/))**
+- :office: &nbsp;Currently working at **[starlingbank](https://www.starlingbank.com/)**
 - :seedling: &nbsp;Learning -> **Rust**
 - :pencil: &nbsp;Want to learn -> **Game Programming**
 - :books: &nbsp;[Currently reading](https://www.goodreads.com/review/list/80389844-chris-philp?shelf=currently-reading)
