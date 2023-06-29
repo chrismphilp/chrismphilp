@@ -33,7 +33,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="48" height="48" alt="Sass" />
+        <img src="https://sass-lang.com/assets/img/logos/logo.svg" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>
     <td align="center" width="96">
