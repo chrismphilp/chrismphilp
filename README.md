@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Hey! I'm Chris P</h1>
+<h1 align="left">:wave: Hey - I'm Chris!</h1>
 
 - :office: &nbsp;Currently working at **[starlingbank](https://www.starlingbank.com/)**
 - :seedling: &nbsp;Learning -> **Rust**
