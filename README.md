@@ -72,7 +72,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left" id="macropower-tech">Recent Tinkerings</h2>
-
-<img alt="Language stats" src="https://api.githubtrends.io/user/svg/chrismphilp/langs"/>
