@@ -63,7 +63,7 @@
       <br>Grafana
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="48" height="48" alt="Prometheus" />
       <br>Prometheus
     </td>
     <td align="center" width="96">
