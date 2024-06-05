@@ -4,7 +4,7 @@
 - :seedling: &nbsp;Learning -> **Rust**
 - :pencil: &nbsp;Want to learn -> **Game Programming**
 - :books: &nbsp;[Currently reading](https://www.goodreads.com/review/list/80389844-chris-philp?shelf=currently-reading)
-- :guitar: &nbsp;[Currently playing](https://www.youtube.com/watch?v=_rLZ-LIx09I)
+- :guitar: &nbsp;[Currently playing](https://www.youtube.com/watch?v=2CYKtIu2oro)
 
 <h2 align="left" id="macropower-tech">Favorite Technologies</h2>
 
